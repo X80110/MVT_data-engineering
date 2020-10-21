@@ -1,7 +1,8 @@
 # Local notes #
 ###################
 _local
-*.swp
+.gitignore.swp
+
 # Compiled source #
 ###################
 *.com
