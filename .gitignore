@@ -1,7 +1,7 @@
 # Local notes #
 ###################
 _local
-
+*.swp
 # Compiled source #
 ###################
 *.com
